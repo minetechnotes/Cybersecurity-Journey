@@ -1,4 +1,4 @@
-# Network+ Basics
+Network Basics
 
 ## Overview
 
